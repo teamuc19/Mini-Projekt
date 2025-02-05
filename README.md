@@ -36,3 +36,31 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
+
+# Mini-Projekt
+
+## Beschreibung
+Dies ist ein kleines Svelte-Projekt mit einer einfachen Navigationsleiste, einem Eingabefeld und einer dynamischen Anzeige des Benutzereingangs.
+
+## Features
+- Responsive Navigation mit Links
+- Eingabefeld mit Live-Anzeige der Benutzereingabe
+- Stilvolle und minimalistische Gestaltung mit `app.css`
+- Barrierefreiheit durch Labels für das Eingabefeld
+
+## Installation und Nutzung
+1. Stelle sicher, dass Node.js und npm installiert sind.
+2. Klone das Repository oder speichere die Dateien:
+
+3. Installiere die Abhängigkeiten:
+4. Starte das Projekt:
+5. Öffne `http://localhost:5173/` in deinem Browser.
+
+## Projektstruktur
+
+## Anpassungen
+Falls du das Styling anpassen möchtest, ändere einfach `app.css`. Für neue Funktionen bearbeite `App.svelte`.
+
+## Lizenz
+Dieses Projekt steht unter der MIT-Lizenz.
